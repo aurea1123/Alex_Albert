@@ -1,0 +1,5 @@
+sudo apt-get -y install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev
+sudo apt-get -y install bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-chrono-dev
+sudo apt-get -y install libboost-program-options-dev libboost-test-dev libboost-thread-dev
+sudo apt-get -y install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev
+sudo apt-get -y install libqrencode-dev protobuf-compiler miniupnpc
